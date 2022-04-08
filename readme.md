@@ -1,3 +1,5 @@
 - Eggs
 - Milk
 - Xbox
+- Dressing
+- Chicken
